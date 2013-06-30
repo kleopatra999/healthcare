@@ -1,0 +1,11 @@
+---
+layout: post
+title: Using Data to Stage Manage Paths to the Prescription Counter
+url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/using-data-to-stage-manage-paths-to-the-prescription-counter/&OQ=_rQ3D0&OP=6736ce87Q2FQ2AEsDQ2A6.Q24Q2AhhhQ2ASQ24(cQ2AwyQ2FQ20
+source: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/using-data-to-stage-manage-paths-to-the-prescription-counter/&OQ=_rQ3D0&OP=6736ce87Q2FQ2AEsDQ2A6.Q24Q2AhhhQ2ASQ24(cQ2AwyQ2FQ20
+domain: www.nytimes.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9942_bits_blogs_nytimes_com.png
+---
+{% include JB/setup %}<p>Every day, five million people walk into a CVS.What they do next — pick up a gallon of milk, linger in the hair care aisle, make a beeline for the pharmacy — is where things can start to get interesting.BIG DATA 2013 A special section on the business and culture of big data.Like many retailers, CVS is collecting and analyzing as much data about its customers’ habits as it can.The entire industry is mining information to understand what people want and how to get them to want more.</p>
+<center><p><a href="http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/using-data-to-stage-manage-paths-to-the-prescription-counter/&OQ=_rQ3D0&OP=6736ce87Q2FQ2AEsDQ2A6.Q24Q2AhhhQ2ASQ24(cQ2AwyQ2FQ20" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

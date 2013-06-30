@@ -1,0 +1,11 @@
+---
+layout: post
+title: Use Text Messaging to Educate Consumers about the New Health Insurance Marketplaces and Drive Enrollment
+url: http://www.mobilecommons.com/blog/2013/05/use-text-messaging-to-educate-consumers-about-the-new-health-insurance-marketplaces-and-drive-enrollment/
+source: http://www.mobilecommons.com/blog/2013/05/use-text-messaging-to-educate-consumers-about-the-new-health-insurance-marketplaces-and-drive-enrollment/
+domain: www.mobilecommons.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9227_www_mobilecommons_com.png
+---
+{% include JB/setup %}<p>Over 48 million non-elderly Americans are currently uninsured.This Fall, the Affordable Care Act will provide them, and others in need, the chance to purchase affordable health insurance that works for them.The problem is: most people haven’t heard of the ACA, they don’t understand it, and they don’t know how to take advantage of it.It is vital that governments, insurance agencies, health centers and non-profits educate citizens about their new insurance options and drive enrollment – both for the health of the system, and for the health of the citizens themselves.We need to reach those citizens, educate them about the changes in the system, and enroll them in plans that work for them.</p>
+<center><p><a href="http://www.mobilecommons.com/blog/2013/05/use-text-messaging-to-educate-consumers-about-the-new-health-insurance-marketplaces-and-drive-enrollment/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

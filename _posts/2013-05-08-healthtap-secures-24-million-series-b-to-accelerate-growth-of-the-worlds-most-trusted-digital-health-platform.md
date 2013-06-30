@@ -1,9 +1,10 @@
 ---
 layout: post
-title: HealthTap Secures $24 Million Series B to Accelerate Growth of the World’s Most Trusted Digital Health Platform
+title: HealthTap Secures 24 Million Series B to Accelerate Growth of the World’s Most Trusted Digital Health Platform
 url: http://blog.healthtap.com/2013/05/healthtap-secures-24-million-series-b-to-accelerate-growth-of-the-world%e2%80%99s-most-trusted-digital-health-platform/
 source: http://blog.healthtap.com/2013/05/healthtap-secures-24-million-series-b-to-accelerate-growth-of-the-world%e2%80%99s-most-trusted-digital-health-platform/
 domain: blog.healthtap.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8457_blog_healthtap_com.png
 ---
 {% include JB/setup %}<p>Palo Alto, Calif.— May 8, 2013 — HealthTap, the popular mobile health platform that connects millions of people with a network of more than 38,000 top doctors for free, today announced it raised $24 million in Series B financing.Khosla Ventures led the round, in which prior investors Mayfield Fund and Mohr Davidow Ventures also participated.Keith Rabois will join HealthTap’s board of directors, and Vinod Khosla will join as an advisor to assist HealthTap as it redefines modern healthcare.HealthTap’s new financing represents one of the most substantial series B investments to date in the digital health industry.</p>
 <center><p><a href="http://blog.healthtap.com/2013/05/healthtap-secures-24-million-series-b-to-accelerate-growth-of-the-world%e2%80%99s-most-trusted-digital-health-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>

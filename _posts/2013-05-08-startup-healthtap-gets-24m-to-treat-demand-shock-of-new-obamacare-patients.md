@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Startup HealthTap gets $24M to treat ‘demand shock’ of new Obamacare patients
+title: Startup HealthTap gets 24M to treat ‘demand shock’ of new Obamacare patients
 url: http://gigaom.com/2013/05/08/startup-healthtap-gets-24m-to-treat-demand-shock-of-new-obamacare-patients/
 source: http://gigaom.com/2013/05/08/startup-healthtap-gets-24m-to-treat-demand-shock-of-new-obamacare-patients/
 domain: gigaom.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8431_gigaom_com.png
 ---
 {% include JB/setup %}<p>Fast forward to 2014 and it might be harder to get an appointment with your doctor, thanks to an influx of up to 30 million new patients expected to enter the health care system under the Affordable Care Act.  But Palo Alto-based HealthTap believes its online health community for doctors and patients can help offset the impending avalanche of demand – and it just raised $24 million more to prepare.The Series B round, which was led by Khosla Ventures and included current investors Mayfield Fund and Mohr Davidow Venture Partners, brings the company’s total amount raised to $37.9 million.In addition to the new funding, the startup added a new board member: former Square COO and Khosla Ventures’ newest partner Keith Rabois.</p>
 <center><p><a href="http://gigaom.com/2013/05/08/startup-healthtap-gets-24m-to-treat-demand-shock-of-new-obamacare-patients/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
