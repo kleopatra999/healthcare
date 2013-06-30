@@ -1,11 +1,0 @@
----
-layout: post
-title: The Future of the Data Driven Medical Practice
-url: http://www.practicefusion.com/blog/data-driven-medicine2/
-source: http://www.practicefusion.com/blog/data-driven-medicine2/
-domain: www.practicefusion.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9519_www_practicefusion_com.png
----
-{% include JB/setup %}<p>Over the past five years we at Practice Fusion have gained tremendous insight into medical trends in the United States.Today, we’re announcing new efforts to bring the power of this insight to our whole community.Practice Fusion Insight is an analytics product designed to improve healthcare by offering population-level reporting tools, first to select partners, and soon to a broader audience.Across collaborations with researchers, academics and public health officials, we have already seen firsthand the power of data to improve care.Our platform offers solutions and perspectives on pressing healthcare issues previously unavailable.</p>
-<center><p><a href="http://www.practicefusion.com/blog/data-driven-medicine2/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

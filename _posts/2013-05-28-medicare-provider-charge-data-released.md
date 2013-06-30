@@ -1,11 +1,0 @@
----
-layout: post
-title: Medicare provider charge data released
-url: http://flowingdata.com/2013/05/28/medicare-provider-charge-data-released/
-source: http://flowingdata.com/2013/05/28/medicare-provider-charge-data-released/
-domain: flowingdata.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9248_flowingdata_com.png
----
-{% include JB/setup %}<p>The Centers for Medicare and Medicaid Services released billing data for more than 3,000 U.S.hospitals, showing high variance in cost of health scare across the country and even between nearby hospitals.As part of the Obama administration’s work to make our health care system more affordable and accountable, data are being released that show significant variation across the country and within communities in what hospitals charge for common inpatient services.The data provided here include hospital-specific charges for the more than 3,000 U.</p>
-<center><p><a href="http://flowingdata.com/2013/05/28/medicare-provider-charge-data-released/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
