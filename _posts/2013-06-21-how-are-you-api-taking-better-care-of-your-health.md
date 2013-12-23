@@ -1,11 +1,0 @@
----
-layout: post
-title: How Are You API: Taking Better Care Of Your Health
-url: http://blog.programmableweb.com/2013/06/21/how-are-you-api-taking-better-care-of-your-health/
-source: http://blog.programmableweb.com/2013/06/21/how-are-you-api-taking-better-care-of-your-health/
-domain: blog.programmableweb.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10025_blog_programmableweb_com.png
----
-{% include JB/setup %}<p>How Are You?Is a UK-based application that provides a free service for NHS patients and NHS healthcare professionals, enabling them to create personal online health records that can be easily managed and shared where necessary.This kind of application has the potential to greatly enhance and improve the future of eHealth, and by providing the How Are You API, the service makes it possible for its handy functionality to be accessed and integrated with other applications.With so many people in the UK constantly needing to contact NHS doctors for advice or treatment, or even just to find out more about certain symptoms, you can imagine how busy things can get.By providing patients with a way to manage and access their own medical records and easily get the information and advice that they need regarding certain conditions, it’s easy to see how an application like this could be quite relevant.</p>
-<center><p><a href="http://blog.programmableweb.com/2013/06/21/how-are-you-api-taking-better-care-of-your-health/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
