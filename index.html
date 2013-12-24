@@ -15,6 +15,10 @@ title: Healthcare
 
 <p>Healthcare is an areas I feel is a priority, but I think the conversation on what that looks like, needs a lot of discussion.</p> 
 
+<p><a id="jsonlink" href="/data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
+
+<h1>Healthcare Companies</h1>
+
 {% raw  %}
 <script id="companyListingTemplate" type="text/template">       
     <li style="list-style: none; padding: 30px; border: 0px solid #000;">
@@ -24,11 +28,23 @@ title: Healthcare
 </script>
 {% endraw %}
 
-<p><a id="jsonlink" href="data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
-<h1>Healthcare Companies</h1>
 <div style="padding-left: 10px; padding-right: 10px; width:550px;">
      <ul id="companyListing" style="padding-left: 30px;"></ul>
 </div>  
+
+<script type="text/javascript">
+function listCompanies()
+    {
+    $.getJSON('/data/companies.json', function(data) {
+        toggle = 0;
+         $.each(data['company'], function(key, val) {
+            var template = $('#companyListingTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#companyListing').append(html);                          
+            });
+        });
+    } 
+</script>
 
 <script type="text/javascript">
 listCompanies();
