@@ -1,12 +1,12 @@
-title : API Evangelist
+title : Healthcare
 
 safe: true
 lsi: false
 pygments: true
 auto: true
 
-source: api-design
-destination: api-design
+source: healthcare
+destination: healthcare
 
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -14,9 +14,9 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 10
 paginate_path: "/blog/page:num"
 
-production_url : http://design.apievangelist.com
+production_url : http://healthcare.apievangelist.com
 
-BASE_PATH : http://design.apievangelist.com
+BASE_PATH : http://healthcare.apievangelist.com
 
 archive_path: /archive.html
 categories_path : /categories.html
