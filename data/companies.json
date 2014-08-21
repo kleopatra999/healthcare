@@ -170,7 +170,7 @@
     },
     {
       "id": "844",
-      "name": "Medline Plus",
+      "name": "MedlinePlus",
       "summary": "MedlinePlus offers a search-based Web service that provides access to MedlinePlus health topic data in XML format. Using the Web service, software developers can build applications that utilize MedlinePlus health topic information. The service accepts keyword searches as requests and returns relevant health topics in ranked order. Keyword searches may be limited to specific fields. The service als",
       "details": "MedlinePlus offers a search-based Web service that provides access to MedlinePlus health topic data in XML format. Using the Web service, software developers can build applications that utilize MedlinePlus health topic information. The service accepts keyword searches as requests and returns relevant health topics in ranked order. Keyword searches may be limited to specific fields. The service also returns health topic summaries, search result snippets, external links, and other associated data.",
       "website": "http://www.nlm.nih.gov/medlineplus/webservices.html",
