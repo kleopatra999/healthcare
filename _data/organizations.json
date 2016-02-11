@@ -1,45 +1,5 @@
 [
 	{
-		"id": "JI123yS080kfgwsPj3123k0XjDxwJExkfV3eWIHrFis8rMFeAWlqlkFWXdxnCJkZvI7QuPe82qV1BMnqm5sfnwVG1A117117",
-		"name": "Acquiring Dough",
-		"summary": "The HealthData.gov API is used to provide software developers programmatic access to the contents of our data catalog. The API can be used to find recently added datasets, to search the catalog, to download the contents of the catalog for analysis, or to build a new data catalog tool.",
-		"details": "The HealthData.gov API is used to provide software developers programmatic access to the contents of our data catalog. The API can be used to find recently added datasets, to search the catalog, to download the contents of the catalog for analysis, or to build a new data catalog tool.",
-		"website": "http://www.healthdata.gov/catalog-api",
-		"twitter": "https://twitter.com/healthdatagov",
-		"github": "",
-		"blog": "http://blog.guardly.com",
-		"blogrss": "http://blog.guardly.com/guardblog/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthdata-gov-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthdata-gov-logo.png",
-		"tags": [
-			"Healthcare",
-			"Federal Government"
-		]
-	},
-	{
-		"id": "WqcmgtgdwWqe116g9xS0SebOAxMJSSSZPjHjlKOFfKqxN5RQRNIboTKXNbA7c3BX6DAhSuihVkzfSPlVtEMzRPPw117117",
-		"name": "Aetna CarePass",
-		"summary": "The CarePass Developer portal offers unique and powerful APIs from Aetna, HHS, and other innovators in the health and wellness community, plus all of the support you&rsquo;ll need to work with these APIs. ",
-		"details": "The CarePass Developer portal offers unique and powerful APIs from Aetna, HHS, and other innovators in the health and wellness community, plus all of the support you&rsquo;ll need to work with these APIs. ",
-		"website": "https://developer.carepass.com/",
-		"twitter": "https://twitter.com/Aetna",
-		"github": "",
-		"blog": "https://developer.carepass.com/blog",
-		"blogrss": "https://developer.carepass.com/blog/feed-entries",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aetna-carepass-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aetna-carepass-logo.png",
-		"tags": [
-			"Orange-Report-Healthcare",
-			"Medical",
-			"Insurance",
-			"Healthcare",
-			"Health",
-			"Drugs"
-		]
-	},
-	{
 		"id": "Mtl1QWq9H3PA4CSh2BqGNgEAw4zBBOnjm8116VmwB7cVbmM22cyN123oYfaZEs7DenF116oXPE35Tukauht7DO1EE123Sw117117",
 		"name": "AIDS.gov",
 		"summary": "The HIV Testing Sites &amp; Care Services Locator is a first-of-its-kind, location-based search tool that allows you to search for testing services, housing providers, health centers and other service providers near your current location.nAIDS.gov has developed two different layouts for the AIDS.gov locator widget. In order to allow users the flexibility to place this widget conveniently within th",
@@ -59,26 +19,6 @@
 			"Federal Government",
 			"API-Stack",
 			"Aids"
-		]
-	},
-	{
-		"id": "52PRRkgmii0k7BGneHnh1MtcbYIBzJUnZC5xniHfptlAyTUZXbmVKXKxcHVbu2ZrTn3lGYI9hThyamE3ok116Hdw117117",
-		"name": "Akido",
-		"summary": "Use Akido to easily integrate your software with any hospital health record system (EHR) and securely get access to health data.",
-		"details": "Use Akido to easily integrate your software with any hospital health record system (EHR) and securely get access to health data.",
-		"website": "https://www.akidolabs.com/",
-		"twitter": "",
-		"github": "",
-		"blog": "https://www.akidolabs.com/blog",
-		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akido-stack.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akido-stack.png",
-		"tags": [
-			"Healthcare-Stack",
-			"Healthcare",
-			"EHR",
-			"API-Stack"
 		]
 	},
 	{
@@ -172,28 +112,10 @@
 		]
 	},
 	{
-		"id": "awUTUg0a2BOzRw41161tEyxpxVsZPg1nL2vehFNJCUevzd6pKS0UVMZ1161Sqx116ooMvntd0v57c46WcKgbq3dqnfWw117117",
-		"name": "BCBSA Tweets",
-		"summary": false,
-		"details": "",
-		"website": "http://www.bcbs.com/",
-		"twitter": "https://twitter.com/BCBSAssociation",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Healthcare",
-			"Chicago"
-		]
-	},
-	{
 		"id": "gNvu6KCysQ7j3EpFM74mksXGNgS6123l3u5K1ChBOjadwZmNfux33l8aGgBGQVxDuDW6pwLx7bmQVA1EWJwOQDXA117117",
 		"name": "Catalyze",
-		"summary": false,
-		"details": "",
+		"summary": "Catalyze exists to help healthcare transition to value-based patient care. We aid the innovators by enabling them to focus on their innovation, not compliance or integration. Catalyze is built by healthcare and security veterans with a deep understanding to what it takes to make you successful. We arenu2019t healthcare-friendly, we are healthcare-only. Catalyze raises the value of digital health d",
+		"details": "Catalyze exists to help healthcare transition to value-based patient care. We aid the innovators by enabling them to focus on their innovation, not compliance or integration. Catalyze is built by healthcare and security veterans with a deep understanding to what it takes to make you successful. We arenu2019t healthcare-friendly, we are healthcare-only. Catalyze raises the value of digital health data and applications by making them secure, trustworthy, and interoperable with other health systems. We align and amplify your model.",
 		"website": "https://catalyze.io/",
 		"twitter": "https://twitter.com/catalyzeio",
 		"github": "",
@@ -203,9 +125,7 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Catalyze.png",
 		"tags": [
-			"Healthcare-Stack",
-			"Healthcare",
-			"API-Stack"
+			"Healthcare"
 		]
 	},
 	{
@@ -221,23 +141,6 @@
 		"logo": "http://www.doctoralia.com/images/logo.png",
 		"logo_width": "150",
 		"screenshot": "http://www.doctoralia.com/images/logo.png",
-		"tags": [
-			"Healthcare"
-		]
-	},
-	{
-		"id": "BvO27Sj9FQG116Hs5XjG9RzSKINUk2wdmXTVz85wpZS5lq1eazcieV123ql11645wfuXptKj0GbtikYXvFNZk9Z8Vc116w117117",
-		"name": "Doctors Natural",
-		"summary": false,
-		"details": "",
-		"website": "",
-		"twitter": "https://twitter.com/DoctorsNatural",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
 		"tags": [
 			"Healthcare"
 		]
@@ -323,42 +226,6 @@
 		]
 	},
 	{
-		"id": "Mfv123XdGbbP56QX9BzJkeHZviUnyI4TC75wIYHEBfQdRsgKXbgKKivfs5Ar116RKMLOS4GvuySllmmI1yIYaLOTbw117117",
-		"name": "Firebone",
-		"summary": false,
-		"details": "",
-		"website": "",
-		"twitter": "https://twitter.com/_firebone",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Healthcare",
-			"Chicago"
-		]
-	},
-	{
-		"id": "8EMnd4Xcn4PDzOR116OSLYpEMMVW6DajhQCnZqAoB03c2zyj0qxNKEWnX5qlYRLlM116vo1Xeoux3oufWKnrUwFB4A117117",
-		"name": "HealthDataConsortium",
-		"summary": false,
-		"details": "",
-		"website": "",
-		"twitter": "https://twitter.com/hdconsortium",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Healthcare",
-			"Events"
-		]
-	},
-	{
 		"id": "DSzj1VWb6cbrA34uWaDABcca7exAvJ116h1238YQVz123KAsouqEVMvpW3aXx123TIzvJTY4OKTXR8jNqiHDyCREJb2udg117117",
 		"name": "healthfinder.gov",
 		"summary": "In an ongoing effort to implement the Federal Digital Strategy, healthfinder.gov is connecting Web site editors and developers with the tools they need to host and share the Government&rsquo;s reliable health and wellness information.nAll healthfinder.gov APIs are available to output English and Spanish content. To begin using a healthfinder.gov API, please register using the form to the right. A ",
@@ -436,26 +303,6 @@
 		]
 	},
 	{
-		"id": "oTaCfvulvH11693XkwAbYflni1NNdBtZcyhaWhp1161pnE8rsM7EVNpMgMLXJHSMpKFQuJ9x123of0N0JweoWQNbe7iQ117117",
-		"name": "KP Digital Health",
-		"summary": false,
-		"details": "",
-		"website": "https://kp.org",
-		"twitter": "https://twitter.com/KPDigitalHealth",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/interchange-kaiser-permanente.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/interchange-kaiser-permanente.png",
-		"tags": [
-			"Orange-Report-Healthcare",
-			"Healthcare-Stack",
-			"Healthcare",
-			"API-Stack"
-		]
-	},
-	{
 		"id": "NWCACkV116hcqvFV5EWhoTIlNVp1pujBUpEUm1236uRyQspJ47ZBNx8iHAFqAtLoAOtvDwCYODySKivYU1234123QTC8yQ117117",
 		"name": "Magnus Health",
 		"summary": "The technology team at Magnus Health has developed a robust application programming interface (API) that facilitates interaction between your school&rsquo;s information system and Magnus Health. Schools that are already using a student information system can take advantage of having a single sign-on (SSO) integration with Magnus Health&rsquo;s web-based SMR (student medical record).",
@@ -497,61 +344,6 @@
 			"Healthcare",
 			"Federal-Stack",
 			"API-Stack"
-		]
-	},
-	{
-		"id": "LiSare2EjTsOsTC1164HAtPNY860VpIe9gS1iFpXiHK4o56ltio9IH30Rz61ihrrGgJaNTAjONxyExuJlu4KKsJg117117",
-		"name": "MMS, Inc.",
-		"summary": false,
-		"details": "",
-		"website": "",
-		"twitter": "https://twitter.com/MMSemail",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Healthcare",
-			"Chicago"
-		]
-	},
-	{
-		"id": "ykPqIeaDOlVaxHEjfQAWMo1unvHSsldnDpJ3uSoBHnVIhV5h3VnFAFaNntuU116dRgpvv1U4AIDgS3HY0nMu7tOA117117",
-		"name": "Oscar Health",
-		"summary": false,
-		"details": "",
-		"website": "https://www.hioscar.com/",
-		"twitter": "https://twitter.com/oscarhealth",
-		"github": "https://github.com/oscarhealth",
-		"blog": "http://blog.hioscar.com/",
-		"blogrss": "http://blog.hioscar.com/rss",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Insurance",
-			"Healthcare",
-			"AWS"
-		]
-	},
-	{
-		"id": "Ans116hJNUbp0HBtrdi91PRKqpKm116IhAz3hzqb5P7UqJMYGl5bIq2j2mjz116pYrfAFvkDBANT3AiPULi116116FXRr0Rw117117",
-		"name": "Pathfinder Health",
-		"summary": false,
-		"details": "",
-		"website": "",
-		"twitter": "https://twitter.com/PathsoftHealth",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Healthcare",
-			"Chicago"
 		]
 	},
 	{
@@ -633,39 +425,20 @@
 		]
 	},
 	{
-		"id": "8MRFLhlTsQuQyA0GDObkHMo7116hirnqhnjAtWa123TlKSLKr8QLgK0SYxDfSHgAcwVyq8SP7ogJ3IqWJCnW9116fUbw117117",
-		"name": "TriZetto Corporation",
-		"summary": false,
-		"details": "",
-		"website": "http://www.trizetto.com/",
-		"twitter": "https://twitter.com/trizetto",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Healthcare"
-		]
-	},
-	{
 		"id": "WwMQk0m0QRo7CSfDeJpJwZjFEchAabbfQlWKaUngY123eXe116kycjU8d7nVDStS9HAz5QY1238gug9c116Wi5TAqxTMFw117117",
 		"name": "TrueVault",
-		"summary": false,
-		"details": "",
+		"summary": "TrueVault is a secure data vault. It is designed from the ground up to provide regulatory compliant storage for Protected Health Information (PHI) and Personally Identifiable Information (PII). TrueVault provides a simple REST API that can be used to store and retrieve any amount of data, at any time, from anywhere on the web. It gives developers the freedom to create applications that require reg",
+		"details": "TrueVault is a secure data vault. It is designed from the ground up to provide regulatory compliant storage for Protected Health Information (PHI) and Personally Identifiable Information (PII). TrueVault provides a simple REST API that can be used to store and retrieve any amount of data, at any time, from anywhere on the web. It gives developers the freedom to create applications that require regulatory compliance without worrying about regulatory compliance.",
 		"website": "https://www.truevault.com/",
 		"twitter": "https://twitter.com/TrueVault",
-		"github": "",
+		"github": "https://github.com/truevault",
 		"blog": "https://www.truevault.com/blog/index.html",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/true-vault.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/true-vault.png",
 		"tags": [
-			"Healthcare-Stack",
-			"Healthcare",
-			"API-Stack"
+			"Healthcare"
 		]
 	},
 	{
@@ -678,9 +451,9 @@
 		"github": "",
 		"blog": "",
 		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/validic-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/validic-logo.png",
 		"tags": [
 			"Healthcare"
 		]
@@ -688,26 +461,22 @@
 	{
 		"id": "7yLsodG7giy4q4voIirKb2zn1zTK0R0pnHihJfUrGNBdmzRctBJTMVBOMlNwrGE6E2c0Kr6xpo7xaytmdyBxQQ117117",
 		"name": "Walgreens",
-		"summary": "Walgreens (www.walgreens.com) is the nation&rsquo;s largest drugstore chain with fiscal 2010 sales of $67 billion. The company operates 7,689 drugstores in all 50 states, the District of Columbia and Puerto Rico. Each day, Walgreens provides nearly 6 million customers the most convenient, multi-channel access to consumer goods and services and trusted, cost-effective pharmacy, health and wellness ",
-		"details": "Walgreens (www.walgreens.com) is the nation&rsquo;s largest drugstore chain with fiscal 2010 sales of $67 billion. The company operates 7,689 drugstores in all 50 states, the District of Columbia and Puerto Rico. Each day, Walgreens provides nearly 6 million customers the most convenient, multi-channel access to consumer goods and services and trusted, cost-effective pharmacy, health and wellness services and advice in communities across America.",
+		"summary": "Walgreens (www.walgreens.com) is the nationu2019s largest drugstore chain with fiscal 2010 sales of $67 billion. The company operates 7,689 drugstores in all 50 states, the District of Columbia and Puerto Rico. Each day, Walgreens provides nearly 6 million customers the most convenient, multi-channel access to consumer goods and services and trusted, cost-effective pharmacy, health and wellness se",
+		"details": "Walgreens (www.walgreens.com) is the nationu2019s largest drugstore chain with fiscal 2010 sales of $67 billion. The company operates 7,689 drugstores in all 50 states, the District of Columbia and Puerto Rico. Each day, Walgreens provides nearly 6 million customers the most convenient, multi-channel access to consumer goods and services and trusted, cost-effective pharmacy, health and wellness services and advice in communities across America.",
 		"website": "https://walgreens.com",
 		"twitter": "https://twitter.com/walgreensapi",
 		"github": "https://github.com/walgreensapi",
 		"blog": "https://developer.walgreens.com/blog",
 		"blogrss": "https://developer.walgreens.com/blog/feed",
-		"logo": "https://developer.walgreens.com/sites/all/themes/aloha/images/theme-developer_connect/logo.gif",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/walgreens-logo.png",
 		"logo_width": "150",
-		"screenshot": "https://developer.walgreens.com/sites/all/themes/aloha/images/theme-developer_connect/logo.gif",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/walgreens-logo.png",
 		"tags": [
 			"Printing",
 			"Prescriptions",
-			"Orange-Report-Healthcare",
-			"Images-Stack",
-			"Healthcare-Stack",
+			"Photos",
 			"Healthcare",
-			"Drugs",
-			"Chicago",
-			"API-Stack"
+			"Drugs"
 		]
 	}
 ]
