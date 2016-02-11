@@ -12,7 +12,10 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthdata-gov-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthdata-gov-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Federal Government"
+		]
 	},
 	{
 		"id": "WqcmgtgdwWqe116g9xS0SebOAxMJSSSZPjHjlKOFfKqxN5RQRNIboTKXNbA7c3BX6DAhSuihVkzfSPlVtEMzRPPw117117",
@@ -27,7 +30,14 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aetna-carepass-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aetna-carepass-logo.png",
-		"tags": null
+		"tags": [
+			"Orange-Report-Healthcare",
+			"Medical",
+			"Insurance",
+			"Healthcare",
+			"Health",
+			"Drugs"
+		]
 	},
 	{
 		"id": "Mtl1QWq9H3PA4CSh2BqGNgEAw4zBBOnjm8116VmwB7cVbmM22cyN123oYfaZEs7DenF116oXPE35Tukauht7DO1EE123Sw117117",
@@ -42,7 +52,14 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aids-gov-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aids-gov-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"Health",
+			"Federal Government",
+			"API-Stack",
+			"Aids"
+		]
 	},
 	{
 		"id": "52PRRkgmii0k7BGneHnh1MtcbYIBzJUnZC5xniHfptlAyTUZXbmVKXKxcHVbu2ZrTn3lGYI9hThyamE3ok116Hdw117117",
@@ -57,7 +74,12 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akido-stack.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akido-stack.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"EHR",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "zvan7ZrJbt5NPrfNbrXH7pyAE2bhz56rkOfgwqTkZuVLjw9PJ3zsCXkoUF123CNOvV8bFPca38GUYKOQTe22ZR6w117117",
@@ -72,7 +94,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allscripts-logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allscripts-logo.jpg",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"Chicago",
+			"API-Stack",
+			"Agency"
+		]
 	},
 	{
 		"id": "sfqR78UAP116AvnifA116A0A6116FCRF3AxB8MA8sen3OfzhvGLXhounxHWeV2sUQPo8u6J0Pix1231MTck69lP8uJFLng117117",
@@ -87,7 +115,10 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/hipaa-space-logo.gif",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/hipaa-space-logo.gif",
-		"tags": null
+		"tags": [
+			"HIPAA",
+			"Healthcare"
+		]
 	},
 	{
 		"id": "BElLwA5jG79cYWEIaFuidElcR0WVQExmIUJb1wqafJsYiRHr0Ur6Fza123hTYBXe1arHJ4qbNPGm7XUXI116R8UIuw117117",
@@ -102,7 +133,26 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/att-developer-program-logo.png",
 		"logo_width": "250",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/att-developer-program-logo.png",
-		"tags": null
+		"tags": [
+			"Voice-Stack",
+			"Telephony",
+			"SMS-Stack",
+			"SMS",
+			"Payments-Stack",
+			"Payments",
+			"Notifications",
+			"MMS-Stack",
+			"Messaging-Stack",
+			"Messaging",
+			"Media",
+			"Healthcare",
+			"Handset",
+			"Encryption",
+			"Cloud Storage",
+			"Cloud Computing",
+			"API-Stack",
+			"Advertising-Stack"
+		]
 	},
 	{
 		"id": "9UiC6Ye8UvsVsjk44QNZEW7aIcMN8GC2HvzLcQGVH3RuoewLPOrck8JXflaoTXEKh123FroNxNsqH0123JIgTuuMBg117117",
@@ -117,7 +167,9 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/basehealth-logo-50294f89.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/basehealth-logo-50294f89.png",
-		"tags": null
+		"tags": [
+			"Healthcare"
+		]
 	},
 	{
 		"id": "awUTUg0a2BOzRw41161tEyxpxVsZPg1nL2vehFNJCUevzd6pKS0UVMZ1161Sqx116ooMvntd0v57c46WcKgbq3dqnfWw117117",
@@ -132,7 +184,10 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Chicago"
+		]
 	},
 	{
 		"id": "gNvu6KCysQ7j3EpFM74mksXGNgS6123l3u5K1ChBOjadwZmNfux33l8aGgBGQVxDuDW6pwLx7bmQVA1EWJwOQDXA117117",
@@ -147,7 +202,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Catalyze.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Catalyze.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "H116bIbADCkBCsXJkmYyh9jXJSR7Cqi096iC1904L9M116tN95AwLPwfQrSHLCZadB2a9lMBv5fCWSg0B7SL5WOq7w117117",
@@ -162,7 +221,9 @@
 		"logo": "http://www.doctoralia.com/images/logo.png",
 		"logo_width": "150",
 		"screenshot": "http://www.doctoralia.com/images/logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare"
+		]
 	},
 	{
 		"id": "BvO27Sj9FQG116Hs5XjG9RzSKINUk2wdmXTVz85wpZS5lq1eazcieV123ql11645wfuXptKj0GbtikYXvFNZk9Z8Vc116w117117",
@@ -177,7 +238,9 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare"
+		]
 	},
 	{
 		"id": "JYYQ22VKTBC7h1Rs3fsyDKXieiiO9123fwTuYeuHiJQHnG2Uoi2urRLTxBQEGY123GWhx4UHT65xWxH0cHiFW4bP1g117117",
@@ -192,7 +255,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/dossia-logo.png",
 		"logo_width": "140",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/dossia-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "rCtS46qyDrhLLV6116Vz5wxa3DA1168T3eBjHamOKK6wDyL3mqFDwCC0hNbROn5lI8cwQ8Qa2WevoHigW8Qj116NTPhg117117",
@@ -207,7 +274,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2143_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2143_logo.png",
-		"tags": null
+		"tags": [
+			"Medical",
+			"Healthcare-Stack",
+			"Healthcare",
+			"Doctors",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "D804BNOcNa0WFl116wwcfP3p7123TKQHKIwHfIY116yLdXITH1s9oN81iGQPmhOyCErl9ZFWppzJrgzdMcpdLI05YFFg117117",
@@ -222,7 +295,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EHRScape-Logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EHRScape-Logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "eMNhy73aEbGNOhtRFicWGCA3sxkM7U2ieyZfnvPeeVQw116116W97xtTW4ML299vzZ1YcPsTv123zu8IgscClJq1P1169g117117",
@@ -237,7 +314,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/eligible-logo.png",
 		"logo_width": "160",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/eligible-logo.png",
-		"tags": null
+		"tags": [
+			"Insurance-Stack",
+			"Insurance",
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "Mfv123XdGbbP56QX9BzJkeHZviUnyI4TC75wIYHEBfQdRsgKXbgKKivfs5Ar116RKMLOS4GvuySllmmI1yIYaLOTbw117117",
@@ -252,7 +335,10 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Chicago"
+		]
 	},
 	{
 		"id": "8EMnd4Xcn4PDzOR116OSLYpEMMVW6DajhQCnZqAoB03c2zyj0qxNKEWnX5qlYRLlM116vo1Xeoux3oufWKnrUwFB4A117117",
@@ -267,7 +353,10 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Events"
+		]
 	},
 	{
 		"id": "DSzj1VWb6cbrA34uWaDABcca7exAvJ116h1238YQVz123KAsouqEVMvpW3aXx123TIzvJTY4OKTXR8jNqiHDyCREJb2udg117117",
@@ -282,7 +371,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthfinder-gov-logo.png",
 		"logo_width": "160",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthfinder-gov-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "voOSYH7MAtk8EbpfdgSUavxQh2okGz8NINF3116Kb6gMmRyW9kZA25JvclC4y3vvKYhudngbspe0q55n2eadASng117117",
@@ -297,7 +390,12 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthnotes-logo.png",
 		"logo_width": "160",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/healthnotes-logo.png",
-		"tags": null
+		"tags": [
+			"Nutrition",
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "1fPTu6nuW6jnSV7M9uXFpL9ThBp123tz85T5kYP1oSrmGtjKmHE116BrFlrmgFqEG6oTcPwg1k123t7t2L6kC116w116koBg117117",
@@ -312,7 +410,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/health-tap-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/health-tap-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Answers",
+			"Advice"
+		]
 	},
 	{
 		"id": "Mx4nhcDXqD7TM6xTD8TrAGsBYskoMUDyQTlvRQfF68Qkyaa5gQ9Qy5fDvn3W1lpewGNq79ge0DtmKK123ShpN5Og117117",
@@ -327,7 +429,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/human-api.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/human-api.jpg",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "oTaCfvulvH11693XkwAbYflni1NNdBtZcyhaWhp1161pnE8rsM7EVNpMgMLXJHSMpKFQuJ9x123of0N0JweoWQNbe7iQ117117",
@@ -342,7 +448,12 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/interchange-kaiser-permanente.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/interchange-kaiser-permanente.png",
-		"tags": null
+		"tags": [
+			"Orange-Report-Healthcare",
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "NWCACkV116hcqvFV5EWhoTIlNVp1pujBUpEUm1236uRyQspJ47ZBNx8iHAFqAtLoAOtvDwCYODySKivYU1234123QTC8yQ117117",
@@ -357,7 +468,16 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg",
-		"tags": null
+		"tags": [
+			"Whois",
+			"Student",
+			"Management",
+			"Healthcare-Stack",
+			"Healthcare",
+			"Education-Stac",
+			"Education",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "XlJBcPYkHdoUMOjCUizjm8jOvEBlGGVpQxzcgm7bJG123vYjeD2epYUWJDKI22jGJLIMS7fiK4SMNTjIm58V7FFg117117",
@@ -372,7 +492,12 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/medline-plus-logo.png",
 		"logo_width": "180",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/medline-plus-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"Federal-Stack",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "LiSare2EjTsOsTC1164HAtPNY860VpIe9gS1iFpXiHK4o56ltio9IH30Rz61ihrrGgJaNTAjONxyExuJlu4KKsJg117117",
@@ -387,7 +512,10 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Chicago"
+		]
 	},
 	{
 		"id": "ykPqIeaDOlVaxHEjfQAWMo1unvHSsldnDpJ3uSoBHnVIhV5h3VnFAFaNntuU116dRgpvv1U4AIDgS3HY0nMu7tOA117117",
@@ -402,7 +530,11 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Insurance",
+			"Healthcare",
+			"AWS"
+		]
 	},
 	{
 		"id": "Ans116hJNUbp0HBtrdi91PRKqpKm116IhAz3hzqb5P7UqJMYGl5bIq2j2mjz116pYrfAFvkDBANT3AiPULi116116FXRr0Rw117117",
@@ -417,7 +549,10 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare",
+			"Chicago"
+		]
 	},
 	{
 		"id": "GwpjJiOF1231cmRo3Pe0fH116oXPXhkRbEqVJ5snU1SCHEO0I6Sy8123PFMlGoiJgJ116Ig2uBMMjY2X5x0IvcA6zafCjg117117",
@@ -432,7 +567,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pokitdok.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pokitdok.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"Digital Health",
+			"Claims",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "116mFmhil116MyeTeR99z2rHNxUffyFzFbunH0s0wX61GSoeR5MHD1dcERTd3Vlswhu3on116yzQRDav123qXWIPlAd57Q117117",
@@ -447,7 +588,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/practice-fusion-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/practice-fusion-logo.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "PbgrFepzbkAkx6W53XgEteE1FOJ7ZHlRGMYIPAIMXWl9FLrzU5z6JSG62C123w6FaPHDVpHbiNydSjGhKmEPhn2w117117",
@@ -462,7 +607,12 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/qi-bench.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/qi-bench.jpg",
-		"tags": null
+		"tags": [
+			"Medical Imaging",
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "ilNeeokdmXZAPM1fn05dwCDB0GParHofa5iOixw0QplVgDyeeBmN4tgThs84116116jg2ZTI4QgLfSDpeBuneAXytA117117",
@@ -477,7 +627,10 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/canapi-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/canapi-logo.png",
-		"tags": null
+		"tags": [
+			"Research",
+			"Healthcare"
+		]
 	},
 	{
 		"id": "8MRFLhlTsQuQyA0GDObkHMo7116hirnqhnjAtWa123TlKSLKr8QLgK0SYxDfSHgAcwVyq8SP7ogJ3IqWJCnW9116fUbw117117",
@@ -492,7 +645,9 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare"
+		]
 	},
 	{
 		"id": "WwMQk0m0QRo7CSfDeJpJwZjFEchAabbfQlWKaUngY123eXe116kycjU8d7nVDStS9HAz5QY1238gug9c116Wi5TAqxTMFw117117",
@@ -507,7 +662,11 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/true-vault.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/true-vault.png",
-		"tags": null
+		"tags": [
+			"Healthcare-Stack",
+			"Healthcare",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "orQ116p5UGGKzrAD3s6VJL9YjVBtl3xS04cP9Zo1167hoMJ116JIOlW123B9iKthCgB1rFMlU0GJbIhQFnJSY8NDTF4Xjg117117",
@@ -522,7 +681,9 @@
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Healthcare"
+		]
 	},
 	{
 		"id": "7yLsodG7giy4q4voIirKb2zn1zTK0R0pnHihJfUrGNBdmzRctBJTMVBOMlNwrGE6E2c0Kr6xpo7xaytmdyBxQQ117117",
@@ -537,6 +698,16 @@
 		"logo": "https://developer.walgreens.com/sites/all/themes/aloha/images/theme-developer_connect/logo.gif",
 		"logo_width": "150",
 		"screenshot": "https://developer.walgreens.com/sites/all/themes/aloha/images/theme-developer_connect/logo.gif",
-		"tags": null
+		"tags": [
+			"Printing",
+			"Prescriptions",
+			"Orange-Report-Healthcare",
+			"Images-Stack",
+			"Healthcare-Stack",
+			"Healthcare",
+			"Drugs",
+			"Chicago",
+			"API-Stack"
+		]
 	}
 ]
