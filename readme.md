@@ -18,3 +18,6 @@ If there are any specific topics, conversations, and research projects, we shoul
 
 I have setup a spreadsheet for storing the information gathered, and will sync with the master service that publishes it here to the repository and website - https://docs.google.com/spreadsheets/d/1z6R1M0WZ_P6TPxEpROR5udDhjdS073svEGHzysPW4tw/edit#gid=1823777748
 
+Working:
+
+* [Profile CeCity](https://github.com/api-stack/healthcare/issues/2) - We should be profiling this company, adding to the spreadsheet, and adding any thoughts to the issue thread. 
